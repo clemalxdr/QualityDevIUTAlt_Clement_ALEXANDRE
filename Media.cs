@@ -14,11 +14,29 @@ namespace GestionLibraire
 
         protected int nombreExemplairesDisponibles;
 
+        // Constructeur
+
+        public Media(string titre, int numeroDeReference, int nombreExemplairesDisponibles)
+        {
+            this.titre = titre;
+            this.numeroDeReference = numeroDeReference;
+            this.nombreExemplairesDisponibles = nombreExemplairesDisponibles;
+        }
+
+        // Afficher les informations du média
+
         public virtual void AfficherInfos()
         {
             Console.WriteLine("Titre: " + titre);
             Console.WriteLine("Numero de reference: " + numeroDeReference);
             Console.WriteLine("Nombre d'exemplaires disponibles: " + nombreExemplairesDisponibles);
+        }
+
+        // Getters et setters
+
+        public string Titre
+        {
+            get => titre;
         }
 
         public int NumeroDeReference

@@ -10,10 +10,25 @@ namespace GestionLibraire
     {
         private string artiste;
 
+        // Constructeur
+        public CD(string titre, int numeroDeReference, int nombreExemplairesDisponibles, string artiste) : base(titre, numeroDeReference, nombreExemplairesDisponibles)
+        {
+            this.artiste = artiste;
+        }
+
+        // Afficher les informations du CD
+
         public override void AfficherInfos()
         {
             base.AfficherInfos();
             Console.WriteLine("Artiste: " + artiste);
+        }
+
+        // Getters et setters
+
+        public string Artiste
+        {
+            get => artiste;
         }
     }
 }

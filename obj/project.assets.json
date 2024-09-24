@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\calexandre\\.nuget\\packages\\": {}
+    "C:\\Users\\cleme\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\GestionLibraire.csproj",
+      "projectUniqueName": "C:\\Users\\cleme\\Documents\\IUT\\S5\\Qualite_dev\\QualityDevIUTAlt_Clement_ALEXANDRE\\GestionLibraire.csproj",
       "projectName": "GestionLibraire",
-      "projectPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\GestionLibraire.csproj",
-      "packagesPath": "C:\\Users\\calexandre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\obj\\",
+      "projectPath": "C:\\Users\\cleme\\Documents\\IUT\\S5\\Qualite_dev\\QualityDevIUTAlt_Clement_ALEXANDRE\\GestionLibraire.csproj",
+      "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cleme\\Documents\\IUT\\S5\\Qualite_dev\\QualityDevIUTAlt_Clement_ALEXANDRE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\calexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cleme\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
