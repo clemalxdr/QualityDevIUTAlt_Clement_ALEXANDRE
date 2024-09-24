@@ -16,6 +16,18 @@ namespace GestionLibraire
             get { return medias.FirstOrDefault(objet => objet.NumeroDeReference == numeroDeReference); }
         }
 
+        public static Library operator +(Library library, Media media)
+        {
+            library.AjouterMedia(media);
+            return library;
+        }
+
+        public static Library operator -(Library library, Media media)
+        {
+            library.RetirerMedia(media);
+            return library;
+        }
+
 
         // Ajouter un média à la bibliothèque
         public void AjouterMedia(Media media)
