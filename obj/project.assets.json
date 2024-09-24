@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\GestionLibraire\\GestionLibraire.csproj",
+      "projectUniqueName": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\GestionLibraire.csproj",
       "projectName": "GestionLibraire",
-      "projectPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\GestionLibraire\\GestionLibraire.csproj",
+      "projectPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\GestionLibraire.csproj",
       "packagesPath": "C:\\Users\\calexandre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\GestionLibraire\\obj\\",
+      "outputPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualité_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\calexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",

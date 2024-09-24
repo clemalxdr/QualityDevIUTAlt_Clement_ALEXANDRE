@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:28:41.522Z",
+              "WhenOpened": "2024-09-24T16:45:02.66Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\CD.cs",
+              "RelativeDocumentMoniker": "CD.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\CD.cs",
+              "RelativeToolTip": "CD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:39:11.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\DVD.cs",
+              "RelativeDocumentMoniker": "DVD.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\DVD.cs",
+              "RelativeToolTip": "DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:39:00.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Livre.cs",
+              "RelativeDocumentMoniker": "Livre.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Livre.cs",
+              "RelativeToolTip": "Livre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:38:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Media.cs",
+              "RelativeDocumentMoniker": "Media.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Media.cs",
+              "RelativeToolTip": "Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:29:49.898Z",
+              "EditorCaption": ""
             }
           ]
         }

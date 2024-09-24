@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\",
+  "WorkspaceRootPath": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\qualitydeviutalt_clement_alexandre\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\qualitydeviutalt_clement_alexandre\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\qualitydeviutalt_clement_alexandre\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\qualitydeviutalt_clement_alexandre\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\gestionlibraire\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|c:\\users\\calexandre\\documents\\iut\\but3\\qualit\u00E9_dev\\td1\\qualitydeviutalt_clement_alexandre\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0168BEFD-C820-428D-AF14-70059A2CE2BA}|GestionLibraire.csproj|solutionrelative:cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,28 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Library.cs",
-              "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Library.cs",
-              "RelativeToolTip": "Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:45:02.66Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CD.cs",
-              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\CD.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\CD.cs",
               "RelativeDocumentMoniker": "CD.cs",
-              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\CD.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\CD.cs",
               "RelativeToolTip": "CD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +47,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:45:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DVD.cs",
-              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\DVD.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\DVD.cs",
               "RelativeDocumentMoniker": "DVD.cs",
-              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\DVD.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\DVD.cs",
               "RelativeToolTip": "DVD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,9 +75,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Livre.cs",
-              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Livre.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\Livre.cs",
               "RelativeDocumentMoniker": "Livre.cs",
-              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Livre.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\Livre.cs",
               "RelativeToolTip": "Livre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Media.cs",
-              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Media.cs",
+              "DocumentMoniker": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\Media.cs",
               "RelativeDocumentMoniker": "Media.cs",
-              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\GestionLibraire\\Media.cs",
+              "ToolTip": "C:\\Users\\calexandre\\Documents\\IUT\\BUT3\\Qualit\u00E9_Dev\\TD1\\QualityDevIUTAlt_Clement_ALEXANDRE\\Media.cs",
               "RelativeToolTip": "Media.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T16:29:49.898Z",
               "EditorCaption": ""
